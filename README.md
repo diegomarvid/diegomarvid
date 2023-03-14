@@ -14,7 +14,7 @@
   <br>
   🔬 I was a Convex Optimization researcher in Universidad ORT Uruguay alongside PhD Fernando Paganini.
   <br>
-  🎓 I was a Signals & Systems assistant teacher at Universidad ORT Uruguay.
+  👨‍🏫 I was a Signals & Systems assistant teacher at Universidad ORT Uruguay.
   <br>
   🎓 I graduated top of my class in Electronics Engineering at Universidad ORT Uruguay. 
   <br>
