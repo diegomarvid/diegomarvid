@@ -29,6 +29,21 @@
 
 <!--
 <h2 align="center">
+  :star: Blog Posts :star:
+</h2>
+
+<br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
+  <br>
+-->
+
+
+<!--
+<h2 align="center">
   :earth_americas: Open Source :earth_americas:
 </h2>
 
