@@ -25,7 +25,7 @@
   :star: GitHub Stats :star:
 </h2>
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomarvid)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego's GitHub stats](https://github-readme-stats-diegomarvid.vercel.app/api?username=diegomarvid)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <h2 align="center">
